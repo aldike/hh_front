@@ -1,7 +1,8 @@
 import './globals.css'
 
+
 export const metadata = {
-  title: 'First Lesson',
+  title: 'Second Lesson',
   description: 'Learn nextJS and React',
 }
 
